@@ -1,0 +1,13 @@
+Hi Maaz,
+
+Thanks for your submission. Here are some comments:
+
+1. Very nice implementation. You have completed all baseline and bonus requirements.
+2. Minor problems found by code inspection on intellij. You can analyse them to make code even cleaner.
+3. As instructed in the description, use .gitignore to exlude files that should not be pushed into the repo, ex. .idea.
+
+Grade: 10%
+
+
+Regards,
+Aditya Gupta
